@@ -1,4 +1,3 @@
-package org.codehaus.jparsec;
 
 import static java.util.Arrays.asList;
 import static org.codehaus.jparsec.Asserts.assertFailure;

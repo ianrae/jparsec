@@ -1,4 +1,3 @@
-package org.codehaus.jparsec;
 
 import org.codehaus.jparsec.functors.Map;
 import org.codehaus.jparsec.functors.Maps;

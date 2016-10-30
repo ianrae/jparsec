@@ -1,4 +1,3 @@
-package org.codehaus.jparsec.examples.calculator;
 
 import org.junit.Test;
 

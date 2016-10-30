@@ -1,4 +1,3 @@
-package org.codehaus.jparsec;
 
 import java.util.Comparator;
 import java.util.Locale;

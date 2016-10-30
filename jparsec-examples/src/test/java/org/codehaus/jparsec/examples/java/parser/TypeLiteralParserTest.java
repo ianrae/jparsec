@@ -1,4 +1,3 @@
-package org.codehaus.jparsec.examples.java.parser;
 
 import static org.codehaus.jparsec.examples.java.parser.TerminalParserTest.assertFailure;
 import static org.codehaus.jparsec.examples.java.parser.TerminalParserTest.assertResult;

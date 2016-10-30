@@ -1,4 +1,3 @@
-package org.jparsec;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Lists;

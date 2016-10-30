@@ -1,4 +1,3 @@
-package org.codehaus.jparsec.examples.sql.parser;
 
 import org.codehaus.jparsec.Parser;
 import org.codehaus.jparsec.error.ParserException;

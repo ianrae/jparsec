@@ -1,4 +1,3 @@
-package org.codehaus.jparsec;
 
 import org.codehaus.jparsec.Tokens.Fragment;
 import org.codehaus.jparsec.Tokens.Tag;

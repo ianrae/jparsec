@@ -1,4 +1,3 @@
-package org.codehaus.jparsec.examples.sql.parser;
 
 import static org.codehaus.jparsec.examples.sql.parser.ExpressionParser.NUMBER;
 import static org.codehaus.jparsec.examples.sql.parser.ExpressionParserTest.number;

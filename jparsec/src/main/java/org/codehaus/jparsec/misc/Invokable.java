@@ -1,4 +1,3 @@
-package org.codehaus.jparsec.misc;
 
 import net.sf.cglib.reflect.FastConstructor;
 import net.sf.cglib.reflect.FastMethod;

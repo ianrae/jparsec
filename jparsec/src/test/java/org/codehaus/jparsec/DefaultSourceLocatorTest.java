@@ -1,4 +1,3 @@
-package org.codehaus.jparsec;
 
 import org.codehaus.jparsec.error.Location;
 import org.codehaus.jparsec.internal.util.IntList;

@@ -1,4 +1,3 @@
-package org.codehaus.jparsec;
 
 import static org.codehaus.jparsec.Asserts.assertFailure;
 import static org.codehaus.jparsec.Parsers.always;

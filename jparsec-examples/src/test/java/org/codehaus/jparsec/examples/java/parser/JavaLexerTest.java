@@ -1,4 +1,3 @@
-package org.codehaus.jparsec.examples.java.parser;
 
 import org.codehaus.jparsec.Parser;
 import org.codehaus.jparsec.error.ParserException;

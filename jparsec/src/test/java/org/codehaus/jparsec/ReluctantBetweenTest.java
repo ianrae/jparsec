@@ -1,4 +1,3 @@
-package org.codehaus.jparsec;
 
 import static org.codehaus.jparsec.Scanners.isChar;
 import static org.junit.Assert.assertEquals;

@@ -1,4 +1,3 @@
-package org.codehaus.jparsec;
 
 import static org.codehaus.jparsec.OperatorTable.Associativity.*;
 import static org.junit.Assert.assertEquals;

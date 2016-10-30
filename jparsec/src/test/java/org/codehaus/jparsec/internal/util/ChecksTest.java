@@ -1,5 +1,3 @@
-// Copyright 2008 Google Inc. All rights reserved.
-
 package org.codehaus.jparsec.internal.util;
 
 import org.codehaus.jparsec.internal.util.Checks;

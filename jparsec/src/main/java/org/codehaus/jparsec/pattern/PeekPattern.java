@@ -1,4 +1,3 @@
-package org.codehaus.jparsec.pattern;
 
 class PeekPattern extends Pattern {
 

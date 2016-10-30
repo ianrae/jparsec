@@ -1,4 +1,3 @@
-package org.codehaus.jparsec.examples.java.parser;
 
 import static org.codehaus.jparsec.examples.java.parser.ExpressionParser.IDENTIFIER;
 import static org.codehaus.jparsec.examples.java.parser.StatementParser.NOP;

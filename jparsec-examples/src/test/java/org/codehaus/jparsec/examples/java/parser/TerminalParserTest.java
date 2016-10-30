@@ -1,4 +1,3 @@
-package org.codehaus.jparsec.examples.java.parser;
 
 import static org.codehaus.jparsec.examples.java.parser.TerminalParser.parse;
 import static org.junit.Assert.assertEquals;

@@ -1,4 +1,3 @@
-package org.codehaus.jparsec.pattern;
 
 import static org.codehaus.jparsec.pattern.CharPredicates.ALWAYS;
 import static org.codehaus.jparsec.pattern.CharPredicates.NEVER;

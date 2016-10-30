@@ -1,4 +1,3 @@
-package org.jparsec;
 
 import java.util.Objects;
 

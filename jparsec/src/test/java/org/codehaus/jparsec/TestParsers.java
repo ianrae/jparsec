@@ -1,4 +1,3 @@
-package org.codehaus.jparsec;
 
 /**
  * {@link Parser}s for testing purpose.

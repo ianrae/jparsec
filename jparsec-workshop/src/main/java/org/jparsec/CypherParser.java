@@ -1,4 +1,3 @@
-package org.jparsec;
 
 import org.codehaus.jparsec.Parser;
 import org.codehaus.jparsec.Parsers;

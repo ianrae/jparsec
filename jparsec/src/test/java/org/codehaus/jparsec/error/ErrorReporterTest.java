@@ -1,4 +1,3 @@
-package org.codehaus.jparsec.error;
 
 import static org.easymock.EasyMock.expect;
 

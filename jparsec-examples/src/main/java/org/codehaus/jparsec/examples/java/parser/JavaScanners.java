@@ -1,4 +1,3 @@
-package org.codehaus.jparsec.examples.java.parser;
 
 import static org.codehaus.jparsec.pattern.Patterns.isChar;
 import static org.codehaus.jparsec.pattern.Patterns.many;

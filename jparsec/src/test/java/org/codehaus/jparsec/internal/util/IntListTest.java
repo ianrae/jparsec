@@ -1,4 +1,3 @@
-package org.codehaus.jparsec.internal.util;
 
 import org.codehaus.jparsec.internal.util.IntList;
 import org.junit.Test;

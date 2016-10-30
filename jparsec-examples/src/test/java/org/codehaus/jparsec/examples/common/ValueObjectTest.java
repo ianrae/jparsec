@@ -1,4 +1,3 @@
-package org.codehaus.jparsec.examples.common;
 
 import org.codehaus.jparsec.util.ObjectTester;
 import org.junit.Test;

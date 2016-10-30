@@ -1,4 +1,3 @@
-package org.codehaus.jparsec.pattern;
 
 import static org.codehaus.jparsec.pattern.Pattern.MISMATCH;
 import static org.codehaus.jparsec.pattern.Patterns.ALWAYS;

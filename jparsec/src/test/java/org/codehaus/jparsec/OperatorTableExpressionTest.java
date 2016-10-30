@@ -1,4 +1,3 @@
-package org.codehaus.jparsec;
 
 import static org.easymock.EasyMock.expect;
 import static org.junit.Assert.assertEquals;

@@ -1,4 +1,3 @@
-package org.codehaus.jparsec.misc;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,3 @@
-package org.codehaus.jparsec.functors;
 
 import java.util.HashMap;
 

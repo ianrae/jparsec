@@ -1,4 +1,3 @@
-package org.codehaus.jparsec.functors;
 
 import org.codehaus.jparsec.util.ObjectTester;
 

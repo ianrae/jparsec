@@ -1,4 +1,3 @@
-package org.codehaus.jparsec.misc;
 
 import org.junit.Test;
 

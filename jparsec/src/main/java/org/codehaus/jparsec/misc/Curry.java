@@ -1,4 +1,3 @@
-package org.codehaus.jparsec.misc;
 
 import static org.codehaus.jparsec.internal.util.Checks.checkArgument;
 
