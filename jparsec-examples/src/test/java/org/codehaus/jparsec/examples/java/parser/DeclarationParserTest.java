@@ -1,31 +1,18 @@
+package org.codehaus.jparsec.examples.java.parser;
+
+import org.codehaus.jparsec.Parser;
+import org.codehaus.jparsec.examples.java.ast.declaration.*;
+import org.junit.Test;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 import static org.codehaus.jparsec.examples.java.parser.ExpressionParser.IDENTIFIER;
 import static org.codehaus.jparsec.examples.java.parser.StatementParser.SYSTEM_MODIFIER;
 import static org.codehaus.jparsec.examples.java.parser.TerminalParserTest.assertFailure;
 import static org.codehaus.jparsec.examples.java.parser.TerminalParserTest.assertResult;
 import static org.junit.Assert.assertEquals;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
-import org.codehaus.jparsec.Parser;
-import org.codehaus.jparsec.examples.java.ast.declaration.AnnotationDef;
-import org.codehaus.jparsec.examples.java.ast.declaration.ClassDef;
-import org.codehaus.jparsec.examples.java.ast.declaration.ClassInitializerDef;
-import org.codehaus.jparsec.examples.java.ast.declaration.ConstructorDef;
-import org.codehaus.jparsec.examples.java.ast.declaration.Declaration;
-import org.codehaus.jparsec.examples.java.ast.declaration.DefBody;
-import org.codehaus.jparsec.examples.java.ast.declaration.EnumDef;
-import org.codehaus.jparsec.examples.java.ast.declaration.FieldDef;
-import org.codehaus.jparsec.examples.java.ast.declaration.Import;
-import org.codehaus.jparsec.examples.java.ast.declaration.InterfaceDef;
-import org.codehaus.jparsec.examples.java.ast.declaration.Member;
-import org.codehaus.jparsec.examples.java.ast.declaration.MethodDef;
-import org.codehaus.jparsec.examples.java.ast.declaration.Program;
-import org.codehaus.jparsec.examples.java.ast.declaration.QualifiedName;
-import org.codehaus.jparsec.examples.java.ast.declaration.TypeParameterDef;
-import org.junit.Test;
 
 /**
  * Unit test for {@link DeclarationParser}.
